@@ -1,4 +1,4 @@
-# ed-fsl
+# Few-shot Learning for Event Detection
 This is an official repo for papers:
 
 [Learning Prototype Representations Across Few-Shot Tasks for Event Detection](https://aclanthology.org/2021.emnlp-main.427.pdf)
