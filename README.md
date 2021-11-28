@@ -54,7 +54,7 @@ preprocess/rams_utils.py generate a list of positive training example
 python fsl.py --dataset rams -n 5 -k 5 --encoder bertmlp --model proto
 ```
 
-# Run MELR model
+# Run ProAct model
 
 ```
 python melr.py --dataset rams -n 5 -k 5 --encoder bertmlp --model melr
